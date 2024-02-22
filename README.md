@@ -1,2 +1,2 @@
 # Snapgrapher
-Vector Editor for Snap! based on Paper.js
+Painting editor for Snap!
