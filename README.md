@@ -1,4 +1,2 @@
-# papergrapher
-Vector Editor based on Paper.js
-
-A working version can be found at https://w00dn.github.io/papergrapher/
+# Snapgrapher
+Vector Editor for Snap! based on Paper.js
