@@ -22,7 +22,7 @@ pg.settings = function () {
 				setVersionNumber();
 			}
 			
-			document.title = 'Papergrapher '+config.appVersion;
+			document.title = 'Snapgrapher '+config.appVersion;
 			
 		}).error(function(jqXHR, textStatus, errorThrown) {
 			console.error('Loading config.json failed: '+errorThrown);
