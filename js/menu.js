@@ -252,7 +252,7 @@ pg.menu = function() {
 		
 	
 	var showAboutModal = function () {
-		var html = '<h2 class="appTitle">Papergrapher</h2><span class="versionNumber">' + pg.settings.getVersionNumber() + '</span><p>A vector editor for your browser, based on <a href="http://paperjs.org/" target="_blank">Paper.js</a> and <a href="https://github.com/memononen/stylii" target="_blank">stylii</a>. Check it out on <a href="https://github.com/w00dn/papergrapher" target="_blank">GitHub</a>.</p><p>Developed by <a href="https://twitter.com/w00dn" target="_blank">Rolf Fleischmann</a><br>Published under the <a href="https://github.com/w00dn/papergrapher/blob/master/LICENSE" target="_blank">MIT License</a></p>';
+		var html = '<h2 class="appTitle">Snapgrapher</h2><span class="versionNumber">' + pg.settings.getVersionNumber() + '</span><p>A paint editor, based on <a href="http://paperjs.org/" target="_blank">Paper.js</a> and <a href="https://github.com/memononen/stylii" target="_blank">stylii</a>. Check it out on <a href="https://github.com/Mrdev88/Snapgrapher" target="_blank">GitHub</a>.</p><p>Developed by <a href="https://mrdev88.github.io/" target="_blank">Mahdi</a><br>Published under the <a href="https://github.com/Mrdev88/Snapgrapher/" target="_blank">MIT License</a></p>';
 		new pg.modal.floater('appInfoWindow', 'Info', html, 300, 100);
 	};
 	
